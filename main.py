@@ -4,11 +4,11 @@ import subprocess
 OPTIONS = {
     "1": (
         "Smart Revise Quiz",
-        "https://smartrevise.online/student/revise/",
+        "https://smartrevise.online/student/revise/Question/74",
     ),
     "2": (
         "Smart Revise Terminology",
-        "https://smartrevise.online/student/reviseterminology/",
+        "https://smartrevise.online/student/reviseterminology/index/74",
     ),
     "3": (
         "Sparx Maths",
